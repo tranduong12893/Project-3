@@ -1,0 +1,350 @@
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\csc.exe
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\csc.exe.config
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\csc.rsp
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\csi.exe
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\csi.exe.config
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\csi.rsp
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.AppContext.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Console.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\vbc.exe
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\vbc.exe.config
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\vbc.rsp
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Antlr3.Runtime.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\EntityFramework.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Newtonsoft.Json.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\PagedList.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\PagedList.Mvc.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Helpers.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Mvc.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Optimization.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Razor.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.WebPages.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\WebGrease.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\EntityFramework.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\PagedList.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\PagedList.Mvc.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Helpers.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Mvc.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Optimization.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.Razor.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.WebPages.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Newtonsoft.Json.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Antlr3.Runtime.pdb
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.AssemblyReference.cache
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CoreCompileInputs.cache
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CopyComplete
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\CourseManagement.dll.config
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\CourseManagement.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\bin\CourseManagement.pdb
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\obj\Debug\CourseManagement.dll
+C:\Users\AUND\Downloads\CourseManagement\CourseManagement\ShopManagement\obj\Debug\CourseManagement.pdb
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csc.exe
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\CourseManagement.dll.config
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\CourseManagement.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\CourseManagement.pdb
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csc.exe.config
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csc.rsp
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csi.exe
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csi.exe.config
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csi.rsp
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.AppContext.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Console.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\vbc.exe
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\vbc.exe.config
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\vbc.rsp
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Antlr3.Runtime.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Newtonsoft.Json.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.Mvc.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Helpers.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Mvc.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Optimization.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Razor.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\WebGrease.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.Mvc.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Helpers.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Mvc.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Optimization.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Razor.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Newtonsoft.Json.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Antlr3.Runtime.pdb
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CoreCompileInputs.cache
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CopyComplete
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.dll
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.pdb
+C:\Users\mrau1\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.AssemblyReference.cache
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\CourseManagement.dll.config
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\CourseManagement.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\CourseManagement.pdb
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csc.exe
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csc.exe.config
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csc.rsp
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csi.exe
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csi.exe.config
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\csi.rsp
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.AppContext.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Console.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\vbc.exe
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\vbc.exe.config
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\vbc.rsp
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Antlr3.Runtime.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Newtonsoft.Json.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.Mvc.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Rotativa.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Helpers.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Mvc.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Optimization.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Razor.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\WebGrease.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\PagedList.Mvc.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Helpers.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Mvc.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Optimization.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.Razor.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Newtonsoft.Json.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Antlr3.Runtime.pdb
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.AssemblyReference.cache
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CoreCompileInputs.cache
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CopyComplete
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.dll
+C:\Users\AUND\Downloads\Telegram Desktop\CourseManagement\ShopManagement\obj\Debug\CourseManagement.pdb
+D:\hoc\project3\CourseManagement\ShopManagement\bin\CourseManagement.dll.config
+D:\hoc\project3\CourseManagement\ShopManagement\bin\CourseManagement.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\CourseManagement.pdb
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\csc.exe
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\csc.exe.config
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\csc.rsp
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\csi.exe
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\csi.exe.config
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\csi.rsp
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.AppContext.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Console.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Net.Http.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.ValueTuple.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\vbc.exe
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\vbc.exe.config
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\vbc.rsp
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe
+D:\hoc\project3\CourseManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Antlr3.Runtime.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\EntityFramework.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Newtonsoft.Json.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\PagedList.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\PagedList.Mvc.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Rotativa.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Helpers.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Mvc.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Optimization.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Razor.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.WebPages.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\WebGrease.dll
+D:\hoc\project3\CourseManagement\ShopManagement\bin\EntityFramework.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\EntityFramework.SqlServer.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\PagedList.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\PagedList.Mvc.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Helpers.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Mvc.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Optimization.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.Razor.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.WebPages.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\System.Web.WebPages.Razor.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Newtonsoft.Json.xml
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Antlr3.Runtime.pdb
+D:\hoc\project3\CourseManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoc\project3\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.AssemblyReference.cache
+D:\hoc\project3\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CoreCompileInputs.cache
+D:\hoc\project3\CourseManagement\ShopManagement\obj\Debug\CourseManagement.csproj.CopyComplete
+D:\hoc\project3\CourseManagement\ShopManagement\obj\Debug\CourseManagement.dll
+D:\hoc\project3\CourseManagement\ShopManagement\obj\Debug\CourseManagement.pdb

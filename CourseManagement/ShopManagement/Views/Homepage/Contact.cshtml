@@ -1,0 +1,124 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="banner_content text-center">
+                        <h2>Contact Us</h2>
+                        <div class="page_link">
+                            <a href="index.html">Home</a>
+                            <a href="contact.html">Contact</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================Contact Area =================-->
+<section class="contact_area section_gap">
+    <div class="container">
+        <div id="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.319350036688!2d106.66408561471847!3d10.786834792314464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed2392c44df%3A0xd2ecb62e0d050fe9!2zRlBUIEFwdGVjaCBIQ00gLSBI4buHIFRo4buRbmcgxJDDoG8gVOG6oW8gTOG6rXAgVHLDrG5oIFZpw6puIFF14buRYyBU4bq_IChTaW5jZSAxOTk5KQ!5e0!3m2!1svi!2s!4v1650865980657!5m2!1svi!2s" width="1109" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        
+        <div class="row">
+         
+            <div class="col-lg-12">
+                <form class="row contact_form"
+                      action="contact_process.php"
+                      method="post"
+                      id="contactForm"
+                      novalidate="novalidate">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input type="text"
+                                   class="form-control"
+                                   id="name"
+                                   name="name"
+                                   placeholder="Enter your name"
+                                   onfocus="this.placeholder = ''"
+                                   onblur="this.placeholder = 'Enter your name'"
+                                   required="" />
+                        </div>
+                        <div class="form-group">
+                            <input type="email"
+                                   class="form-control"
+                                   id="email"
+                                   name="email"
+                                   placeholder="Enter email address"
+                                   onfocus="this.placeholder = ''"
+                                   onblur="this.placeholder = 'Enter email address'"
+                                   required="" />
+                        </div>
+                        <div class="form-group">
+                            <input type="text"
+                                   class="form-control"
+                                   id="subject"
+                                   name="subject"
+                                   placeholder="Enter Subject"
+                                   onfocus="this.placeholder = ''"
+                                   onblur="this.placeholder = 'Enter Subject'"
+                                   required="" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <textarea class="form-control"
+                                      name="message"
+                                      id="message"
+                                      rows="1"
+                                      placeholder="Enter Message"
+                                      onfocus="this.placeholder = ''"
+                                      onblur="this.placeholder = 'Enter Message'"
+                                      required=""></textarea>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-right">
+                        <button type="submit" value="submit" class="btn primary-btn">
+                            Send Message
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            @foreach (var item in ViewBag.branchs)
+            {
+                <div class="col-lg-4" onclick="changeMap(@item.id)">
+                    <div class="contact_info">
+                        <div class="info_item">
+                            <i class="ti-home"></i>
+                            <h6>@item.address</h6>
+                            <p>@item.branch_name</p>
+                        </div>
+                        <div class="info_item">
+                            <i class="ti-headphone"></i>
+                            <h6><a href="#">@item.phone_number</a></h6>
+                        </div>
+                        <div class="info_item">
+                            <i class="ti-email"></i>
+                            <h6><a href="#">@item.email</a></h6>
+                            <p>Send us your query anytime!</p>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+    
+</section>
+<!--================Contact Area =================-->

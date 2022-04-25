@@ -1,0 +1,71 @@
+﻿@model CourseManagement.Models.CourseModels.branch
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Delete</h6>
+            <h3>Are you sure you want to delete this?</h3>
+        </div>
+        <div class="card-body">
+            <div class="d-flex justify-content-center">
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.branch_name)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.branch_name)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.address)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.address)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.phone_number)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.phone_number)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.email)
+                    </dd>
+                    <p>
+                        @using (Html.BeginForm())
+                        {
+                            @Html.AntiForgeryToken()
+
+                            <div class="form-actions no-color">
+                                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+                            </div>
+                        }
+                    </p>
+                </dl>
+
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+

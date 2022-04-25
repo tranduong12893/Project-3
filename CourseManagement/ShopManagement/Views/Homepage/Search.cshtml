@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="banner_content text-center">
+                        <h2>Information</h2>
+                        <div class="page_link">
+                            <a href="index.html">Home</a>
+                            <a href="about-us.html">Information</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================ Start About Area =================-->
+<section class="about_area section_gap">
+    <div class="container">
+        <div class="row h_blog_item">
+            <div class="section-top-border">
+                <h3 class="mb-30 title_color">Table</h3>
+                <div class="progress-table-wrap">
+                    <div class="progress-table" style="width:1200px">
+                        <div class="table-head">
+                            <div class="country">Student Name</div>
+                            <div class="country">Student Code</div>
+                            <div class="country">Course Name</div>
+                            <div class="visit">Level</div>
+                            <div class="percentage">Score</div>
+                            <div class="percentage">Start date</div>
+                            <div class="percentage">Course Fee</div>
+                        </div>
+                        @foreach (var item in ViewBag.studentDetail)
+                        {
+                            var price = 0;
+                            if (item.pracetice)
+                            {
+                                price = Convert.ToInt32(item.courses_type.price) + 1000;
+                            }
+                            else
+                            {
+                                price = Convert.ToInt32(item.courses_type.price);
+                            }
+                        <div class="table-row">
+                            <div class="country">@item.student.student_name</div>
+                            <div class="country">@item.student.student_code</div>
+                            <div class="country">@item.cours.course_name</div>
+                            <div class="visit">
+                                @if (item.courses_type != null)
+                                {
+                                    <span>@item.courses_type.name</span>
+                                }
+                            </div>
+                            <div class="percentage">
+                                @item.score
+                            </div>
+                            <div class="percentage">
+                                @item.cours.start_date_plan
+                            </div>
+                            <div class="percentage">
+                                @price
+                            </div>
+                        </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+<!--================ End About Area =================-->
+

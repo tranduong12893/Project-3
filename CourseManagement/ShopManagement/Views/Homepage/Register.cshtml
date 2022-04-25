@@ -1,0 +1,173 @@
+﻿@model CourseManagement.Models.CourseModels.students_register
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="banner_content text-center">
+                        <h2>Register Course</h2>
+                        <div class="page_link">
+                            <a href="index.html">Home</a>
+                            <a href="contact.html">Register Course</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================End Home Banner Area =================-->
+<!--================Contact Area =================-->
+<section class="contact_area section_gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="contact_info">
+                    <div class="info_item">
+                        <i class="ti-home"></i>
+                        <h6>Transfer information</h6>
+                        <p>Account number: 022818888 <br> Bank: Vietnam International Bank <br> Branch: VIB-Kim Dong</p>
+                    </div>
+                    <div class="info_item">
+                        <i class="ti-headphone"></i>
+                        <h6><a href="#">0889969533</a></h6>
+                        <p>Mon to Fri 9am to 6pm</p>
+                    </div>
+                    <div class="info_item">
+                        <i class="ti-email"></i>
+                        <h6><a href="#">khongbiet@gmail.com</a></h6>
+                        <p>Send us your query anytime!</p>
+                    </div>
+                    <h6 class="text-danger">NOTE: Please take a photo of your payment details and send to our email.</h6>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                @using (Html.BeginForm("Register", "Homepage", FormMethod.Post, new { @class = "row contact_form", @id="registerForm" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="col-md-6">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.name, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your name" } })
+                            @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your email address" } })
+                            @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.phone_number, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your Phone Number" } })
+                            @Html.ValidationMessageFor(model => model.phone_number, "", new { @class = "text-danger" })
+
+                        </div>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.address, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your Address" } })
+                            @Html.ValidationMessageFor(model => model.address, "", new { @class = "text-danger" })
+
+                        </div>
+                        <div class="form-group">
+                            @Html.EditorFor(model => model.date_of_birth, new { htmlAttributes = new { @class = "form-control", placeholder = "Enter your Date of birth", Type = "date"} })
+                            @Html.ValidationMessageFor(model => model.date_of_birth, "", new { @class = "text-danger" })
+                        </div>
+
+
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group row">
+                            @Html.DropDownList("course_id", null, htmlAttributes: new { @class = "form-select" })
+                            @Html.ValidationMessageFor(model => model.course_id, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group row">
+                            @Html.DropDownList("course_type_id", null, htmlAttributes: new { @class = "form-select" })
+                            @Html.ValidationMessageFor(model => model.course_type_id, "", new { @class = "text-danger" })
+
+                        </div>
+                        <div class="form-group">
+                            @Html.CheckBoxFor(model => model.pracetice, new { htmlAttributes = new { @class = "form-control"} })
+                            Practice Course ($1000)
+                            @Html.ValidationMessageFor(model => model.pracetice, "", new { @class = "text-danger" })
+                            <label class="text-danger">Register After have cost $1500</label>
+                        </div>
+                        <div class="form-group">
+                            @Html.RadioButtonFor(m => m.payment_method, 1, new { @checked = "true" }) Cash
+                            @Html.RadioButtonFor(m => m.payment_method, 2) Banking
+                        </div>
+                       
+                    </div>
+                    <div class="col-md-12 text-right">
+                        <button type="button" onclick="alert('Register Success'); $('#registerForm').submit();" value="submit" class="btn primary-btn">
+                            Send Message
+                        </button>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
+@section scripts {
+    <script type="text/javascript">
+        $('#pracetice').change(function () {
+            var isChecked = $(this).is(':checked');
+
+            $('#pracetice').toggle(isChecked);
+        });
+        function callChangefunc(value) {
+            var isPratice = $("#pracetice").is(":checked");
+            var courseTypeId = value;
+            alert(value + ":" + courseTypeId);
+            var price = 0;
+            if (courseTypeId === 1) {
+                price = 6000;
+            } else {
+                alert('courseTypeId=' + courseTypeId)
+                price = 4725;
+            }
+            if (isPratice) {
+                price += 1000;
+            }
+            $("#cost").text(price);
+
+        }
+        
+    </script>
+}
+
+<!--================Contact Area =================-->
+@*<div class="site-section">
+        <div class="container">
+
+            <div class="d-flex justify-content-center">
+                @using (Html.BeginForm("Login", "Homepage", FormMethod.Post, new { @class = "row contact_form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group">
+                        @Html.EditorFor(model => model.user_name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Username" } })
+                        @Html.ValidationMessageFor(model => model.user_name, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.PasswordFor(model => model.password, new { @class = "form-control", @placeholder = "Password" })
+                        @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.PasswordFor(model => model.password, new { @class = "form-control", @placeholder = "Password Confirm" })
+                        @Html.ValidationMessageFor(model => model.password, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        @Html.EditorFor(model => model.user_name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Enter Your Name" } })
+                        @Html.ValidationMessageFor(model => model.user_name, "", new { @class = "text-danger" })
+                    </div>
+                    <input type="submit" class="btn btn-primary btn-user btn-block" value="Register">
+                }
+            </div>
+
+        </div>
+    </div>*@

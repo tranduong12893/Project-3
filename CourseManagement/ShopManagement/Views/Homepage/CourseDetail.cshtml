@@ -1,0 +1,141 @@
+﻿@model CourseManagement.Models.CourseModels.cours
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="banner_content text-center">
+                        <h2>Course Details</h2>
+                        <div class="page_link">
+                            <a href="index.html">Home</a>
+                            <a href="courses.html">Courses</a>
+                            <a href="course-details.html">Courses Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================ Start Course Details Area =================-->
+<section class="course_details_area section_gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 course_details_left">
+                <div class="main_image">
+                    <img class="img-fluid" src="img/courses/course-details.jpg" alt="">
+                </div>
+                <div class="content_wrapper">
+                    <h4 class="title">Objectives</h4>
+                    <div class="content">
+                        @Html.Raw(Model.description)
+                       
+                    </div>
+
+                    @*<h4 class="title">Eligibility</h4>
+                    <div class="content">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                        incididunt ut labore et dolore
+                        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                        ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                        <br>
+                        <br>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                        incididunt ut labore et dolore
+                        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                        ut aliquip ex ea
+                        commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum. Lorem ipsum dolor sit
+                        amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                        dolore magna aliqua. Ut enim
+                        ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                        commodo consequat. Duis aute
+                        irure dolor in reprehenderit in voluptate velit esse cillum.
+                    </div>*@
+
+                    <h4 class="title">Course Outline</h4>
+                    <div class="content">
+                        <ul class="course_list">
+                            @foreach(var item in Model.out_line.Split(','))
+                            {
+                                <li class="justify-content-between d-flex">
+                                    <p>@item</p>
+                                    <a class="primary-btn text-uppercase" href="#">View Details</a>
+                                </li>
+                            }
+
+                            @*<li class="justify-content-between d-flex">
+                                <p>Basics of HTML</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Getting Know about HTML</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Tags and Attributes</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Basics of CSS</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Getting Familiar with CSS</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Introduction to Bootstrap</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Responsive Design</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>
+                            <li class="justify-content-between d-flex">
+                                <p>Canvas in HTML 5</p>
+                                <a class="primary-btn text-uppercase" href="#">View Details</a>
+                            </li>*@
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 right-contents">
+                <ul>
+                    @foreach (var item in ViewBag.courses_types)
+                    {
+                        <li>
+                            <a class="justify-content-between d-flex" href="#">
+                                <p>@item.name</p>
+                                <span class="or">$ @item.price</span>
+                            </a>
+                        </li>
+
+                    }
+
+                  
+                    <li>
+                        <a class="justify-content-between d-flex" href="#">
+                            <p>Schedule </p>
+                            <span>@Model.start_date_plan</span>
+                        </a>
+                    </li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+</section>
+<!--================ End Course Details Area =================-->

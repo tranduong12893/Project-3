@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CourseManagement.Models.CourseModels.courses_student>
+
+<style>
+    thead {
+        background-color: black;
+        color: white
+    }
+
+    table {
+        border: 1px solid black;
+    }
+
+    td, th {
+        padding: 5px;
+        font-size: 14px;
+    }
+</style>
+
+<table class="table table-bordered table-striped" border="1" style="border-color:black">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Course name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.student.student_name</td>
+            <td>@item.student.phone_number</td>
+            <td>@item.student.email</td>
+            <td>@item.cours.course_name</td>
+
+        </tr>
+
+        }
+    </tbody>
+</table>  

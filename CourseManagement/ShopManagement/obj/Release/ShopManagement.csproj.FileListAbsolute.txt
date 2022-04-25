@@ -1,0 +1,293 @@
+F:\.NET\ShopManagement\ShopManagement\bin\ShopManagement.dll.config
+F:\.NET\ShopManagement\ShopManagement\bin\ShopManagement.dll
+F:\.NET\ShopManagement\ShopManagement\bin\ShopManagement.pdb
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\csc.exe
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\csc.exe.config
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\csc.rsp
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\csi.exe
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\csi.exe.config
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\csi.rsp
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.AppContext.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Console.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.IO.Compression.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Net.Http.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.ValueTuple.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\vbc.exe
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\vbc.exe.config
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\vbc.rsp
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe
+F:\.NET\ShopManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+F:\.NET\ShopManagement\ShopManagement\bin\Antlr3.Runtime.dll
+F:\.NET\ShopManagement\ShopManagement\bin\EntityFramework.dll
+F:\.NET\ShopManagement\ShopManagement\bin\EntityFramework.SqlServer.dll
+F:\.NET\ShopManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\.NET\ShopManagement\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+F:\.NET\ShopManagement\ShopManagement\bin\Newtonsoft.Json.dll
+F:\.NET\ShopManagement\ShopManagement\bin\PagedList.dll
+F:\.NET\ShopManagement\ShopManagement\bin\PagedList.Mvc.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Helpers.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Mvc.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Optimization.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Razor.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.WebPages.dll
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.WebPages.Razor.dll
+F:\.NET\ShopManagement\ShopManagement\bin\WebGrease.dll
+F:\.NET\ShopManagement\ShopManagement\bin\EntityFramework.xml
+F:\.NET\ShopManagement\ShopManagement\bin\EntityFramework.SqlServer.xml
+F:\.NET\ShopManagement\ShopManagement\bin\PagedList.xml
+F:\.NET\ShopManagement\ShopManagement\bin\PagedList.Mvc.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Helpers.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Mvc.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Optimization.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.Razor.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.WebPages.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+F:\.NET\ShopManagement\ShopManagement\bin\System.Web.WebPages.Razor.xml
+F:\.NET\ShopManagement\ShopManagement\bin\Newtonsoft.Json.xml
+F:\.NET\ShopManagement\ShopManagement\bin\Antlr3.Runtime.pdb
+F:\.NET\ShopManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.csprojAssemblyReference.cache
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.csproj.CoreCompileInputs.cache
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.csproj.CopyComplete
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.dll
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.pdb
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddProperty.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.csproj.GenerateResource.cache
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.addd.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.addorignprie.resources
+F:\Project\.NET MCC\ShopManagement\bin\ShopManagement.dll.config
+F:\Project\.NET MCC\ShopManagement\bin\ShopManagement.dll
+F:\Project\.NET MCC\ShopManagement\bin\ShopManagement.pdb
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\csc.exe
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\csc.exe.config
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\csc.rsp
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\csi.exe
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\csi.exe.config
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\csi.rsp
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.AppContext.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Console.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.IO.Compression.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Net.Http.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.ValueTuple.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\vbc.exe
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\vbc.exe.config
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\vbc.rsp
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\VBCSCompiler.exe
+F:\Project\.NET MCC\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\.NET MCC\ShopManagement\bin\Antlr3.Runtime.dll
+F:\Project\.NET MCC\ShopManagement\bin\EntityFramework.dll
+F:\Project\.NET MCC\ShopManagement\bin\EntityFramework.SqlServer.dll
+F:\Project\.NET MCC\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\.NET MCC\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\.NET MCC\ShopManagement\bin\Newtonsoft.Json.dll
+F:\Project\.NET MCC\ShopManagement\bin\PagedList.dll
+F:\Project\.NET MCC\ShopManagement\bin\PagedList.Mvc.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Helpers.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Mvc.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Optimization.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Razor.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.WebPages.dll
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.WebPages.Razor.dll
+F:\Project\.NET MCC\ShopManagement\bin\WebGrease.dll
+F:\Project\.NET MCC\ShopManagement\bin\EntityFramework.xml
+F:\Project\.NET MCC\ShopManagement\bin\EntityFramework.SqlServer.xml
+F:\Project\.NET MCC\ShopManagement\bin\PagedList.xml
+F:\Project\.NET MCC\ShopManagement\bin\PagedList.Mvc.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Helpers.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Mvc.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Optimization.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.Razor.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.WebPages.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+F:\Project\.NET MCC\ShopManagement\bin\System.Web.WebPages.Razor.xml
+F:\Project\.NET MCC\ShopManagement\bin\Newtonsoft.Json.xml
+F:\Project\.NET MCC\ShopManagement\bin\Antlr3.Runtime.pdb
+F:\Project\.NET MCC\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.csprojAssemblyReference.cache
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddProperty.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.addd.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.addorignprie.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.csproj.GenerateResource.cache
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.csproj.CoreCompileInputs.cache
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.csproj.CopyComplete
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.dll
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.pdb
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore2.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore3.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore2.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore3.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.InitialCreate.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddColorSize.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddSizeTableColorTable.resources
+F:\.NET\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddSizeTableColorTable2.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.InitialCreate.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddColorSize.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddSizeTableColorTable.resources
+F:\Project\.NET MCC\ShopManagement\obj\Release\ShopManagement.Migrations.AddSizeTableColorTable2.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\ShopManagement.dll.config
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\ShopManagement.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\ShopManagement.pdb
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\csc.exe
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\csc.exe.config
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\csc.rsp
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\csi.exe
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\csi.exe.config
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\csi.rsp
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.AppContext.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Collections.Immutable.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Console.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Globalization.Calendars.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.IO.Compression.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Net.Http.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Net.Sockets.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Reflection.Metadata.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.ValueTuple.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Xml.XmlDocument.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Xml.XPath.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\vbc.exe
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\vbc.exe.config
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\vbc.rsp
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\roslyn\VBCSCompiler.exe.config
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Antlr3.Runtime.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\EntityFramework.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\EntityFramework.SqlServer.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Microsoft.Web.Infrastructure.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Newtonsoft.Json.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\PagedList.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\PagedList.Mvc.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Helpers.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Mvc.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Optimization.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Razor.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.WebPages.Deployment.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.WebPages.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.WebPages.Razor.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\WebGrease.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\EntityFramework.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\EntityFramework.SqlServer.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\PagedList.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\PagedList.Mvc.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Helpers.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Mvc.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Optimization.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.Razor.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.WebPages.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.WebPages.Deployment.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\System.Web.WebPages.Razor.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Newtonsoft.Json.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Antlr3.Runtime.pdb
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddProperty.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.addd.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.addorignprie.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore2.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddMore3.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.InitialCreate.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddColorSize.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddSizeTableColorTable.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.Migrations.AddSizeTableColorTable2.resources
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.csproj.GenerateResource.cache
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.csproj.CoreCompileInputs.cache
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.csproj.CopyComplete
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.dll
+F:\CodeThue\.NET\Nguyễn Ly\ShopManagement\ShopManagement\obj\Release\ShopManagement.pdb

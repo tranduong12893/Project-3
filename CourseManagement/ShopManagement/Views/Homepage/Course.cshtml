@@ -1,0 +1,81 @@
+﻿@model IEnumerable<CourseManagement.Models.CourseModels.cours>
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="banner_content text-center">
+                        <h2>Courses</h2>
+                        <div class="page_link">
+                            <a href="index.html">Home</a>
+                            <a href="courses.html">Courses</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================ Start Popular Courses Area =================-->
+<div class="popular_courses section_gap_top">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div >
+                <div class="main_title">
+                    <h2 class="mb-3">Our entrance exam</h2>
+                    <p>
+                        Our entrance exams take place twice a year in May and December. Based on your scores and wishes, we will arrange the right class to help you absorb the knowledge a best way. To register for our exam, you need to register for the course you want and we will send you the details.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="main_title">
+                    <h2 class="mb-3">Our Courses</h2>
+                    <p>
+                        Replenish man have thing gathering lights yielding shall you
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <!-- single course -->
+            <div class="col-lg-12">
+                <div class="owl-carousel active_course">
+                    @foreach (var item in Model)
+                    {
+                        Random rand = new Random();
+                        int number22 = rand.Next(1, 14);
+
+                        <div class="single_course">
+                            <div class="course_head">
+                                <img class="img-fluid" src="@Url.Content("~/Content/user_course/img/courses/c" + number22 + ".jpg")" alt="" width="360" height="283" />
+                            </div>
+                            <div class="course_content">
+                                
+                                <span class="tag mb-4 d-inline-block">@item.category.category_name</span>
+                                <h4 class="mb-3">
+                                    <a href="@Url.Action("CourseDetail", "Homepage", new { id = item.id })">@item.course_name</a>
+                                </h4>
+                                <p>
+                                    @item.short_description
+                                </p>
+                                
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--================ End Popular Courses Area =================-->

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ShopManagement20200616101950" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\\.NET\\ShopManagement\\ShopManagement\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\\.NET\\ShopManagement\\ShopManagement\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DatabaseContext-Web.config Connection String" description="" value="Data Source=tcp:bbtcn-nnldbserver2.database.windows.net,1433;Initial Catalog=bbtcn_db2;User ID=admin01;Password=Abc@12345" tags="">
+    <parameterEntry kind="XmlFile" scope="F:\\\.NET\\ShopManagement\\ShopManagement\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DatabaseContext']/@connectionString" />
+  </parameter>
+</parameters>

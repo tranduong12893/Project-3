@@ -1,0 +1,83 @@
+﻿@model PagedList.IPagedList<CourseManagement.Models.user>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800"></h1>
+        <a href="@Url.Action("Create", "User")" class="d-none d-sm-inline-block btn btn-sm btn-info shadow-sm"><i class="fas fa-plus fa-sm text-white-50"></i> Create User</a>
+    </div>
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">User List</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>
+                                Tên Tài Khoản
+                            </th>
+                            <th>
+                                Role
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tfoot class="thead-dark">
+                        <tr>
+                            <th>
+                                Tên Tài Khoản
+                            </th>
+                            <th>
+                                Role
+                            </th>
+                            <th></th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            var role = item.user_role == 1 ? "Admin" : "Employee" ;
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.user_name)
+                                </td>
+                                <td>
+                                    
+                                    @Html.DisplayFor(modelItem => role)
+                                </td>
+
+                                <td>
+                                    <a href="@Url.Action("Edit", "User", new { id = item.id })" class="btn btn-info">
+                                        <span class="fa fa-edit"></span> Edit
+                                    </a>
+                                    <a href="@Url.Action("Details", "User", new { id = item.id })" class="btn btn-info">
+                                        <span class="fa fa-eye"></span> Details
+                                    </a>
+                                    <a href="@Url.Action("Delete", "User", new { id = item.id })" class="btn btn-danger">
+                                        <span class="fa fa-trash"></span> Delete
+                                    </a>
+
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <br />
+                Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+                @Html.PagedListPager(Model, page => Url.Action("Index",
+                    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+            </div>
+        </div>
+    </div>
+</div>
+
